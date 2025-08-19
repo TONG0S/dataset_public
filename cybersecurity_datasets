@@ -6,3 +6,18 @@ MACCDC 2012  ----   https://share.netresec.com/s/7qgDSGNGw2NY8ea
 KDD Cup 1999 Data  ----   https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 BCCC Cybersecurity Datasets  ----   https://www.yorku.ca/research/bccc/ucs-technical/cybersecurity-datasets-cds/
 shengqin/web-attacks  ----   https://huggingface.co/datasets/shengqin/web-attacks
+biggest-sql-injection-dataset  ----   https://www.kaggle.com/datasets/gambleryu/biggest-sql-injection-dataset
+XSS Filter Bypass List with indexes  ----   https://gist.github.com/ThomasOrlita/e2e4a6d72877c8c897082eefe969578a
+List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.  ----   https://github.com/danielmiessler/SecLists
+command-injection-payload-list  ----   https://github.com/payloadbox/command-injection-payload-list
+XSS/human-friendly at master  ----   https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/XSS/human-friendly
+ML/DL_for_xss/data at master  ----   https://github.com/Xyntax/ML/tree/master/DL_for_xss/data
+dolevf/graphql-cop  ----   https://github.com/dolevf/graphql-cop
+
+
+
+
+
+more:
+You can read these paper
+- https://arxiv.org/html/2508.11711v1
